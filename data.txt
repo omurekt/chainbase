@@ -1,0 +1,7 @@
+{
+  "name": "omurekt",
+  "website": "https://omurekt.my.id/",
+  "description": "will be rekt?",
+  "logo": "https://raw.githubusercontent.com/omurekt/chainbase/main/hinata.png",
+  "twitter": "https://x.com/omurekt"
+}
